@@ -1,5 +1,8 @@
 # React + Material UI POC 
 
+
+![image](https://user-images.githubusercontent.com/24850047/147869688-bae2a214-b5eb-42f9-a8ac-6f69be746a4c.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
